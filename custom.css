@@ -1,0 +1,145 @@
+body{
+  margin: 0;
+}
+header{
+    background-color: #fff;
+    padding: 20px;
+}
+.container{
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    border-bottom-color: blueviolet;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+img{
+    max-width: 100%;
+}
+.logo{
+
+max-width: 10%;
+
+flex-basis: 10%;
+}
+.navigation{
+    
+width: 90%;
+    
+flex-basis: 90%;
+
+}
+.menu{
+
+margin: 0;
+
+padding: 0;
+
+list-style-type: none;
+
+display: flex;
+
+justify-content: flex-end;
+}
+. menu li{
+
+}
+
+.menu li a{
+    
+color: black;
+    
+font-size: 20px;
+
+font-weight: 550;
+    
+text-decoration: none;
+    
+padding-right: 50px;
+    
+padding-left: 50px;
+}
+.banner {
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+
+/*.jalal{
+
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#21a076;
+    border-radius: 50px;
+    margin: 70px;
+    
+}
+
+aside{
+    padding-right: 160px;
+    padding-bottom: 120px;
+}
+
+.jal{
+    width: 600px;
+    text-align: center;
+    background: #8bc34a;
+    padding: 100px;
+    border-radius: 50px;
+}
+
+ h1{
+    margin: 0; 
+    font-size: 50px; 
+    color: white;
+ }
+
+ span{
+    color: #575757;
+ }
+
+ p{
+    font-size: 25px;
+    color: white;
+    margin: 0;
+ }
+
+ em {
+    color: #081a1a;
+    font-size: 30px;
+    font-weight: bold;
+    background: aqua;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 30px;
+    margin-top: 15px;
+    display: inline-block;
+}
+.md {
+    color: #009688;
+    background: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 30px;
+    display: inline-flex;
+    margin-top: 25px;
+    text-decoration: none;
+    border-radius: 20px;
+    box-shadow: 6px 6px 20px 0px #2196f5;
+}
+.md:hover{
+    color: white;
+    background: #009688;
+    box-shadow: -6px -6px 20px 0px #2196f5;
+}*/
